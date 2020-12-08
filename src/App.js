@@ -38,6 +38,7 @@ function App() {
         <Button color="blue" primary>Primary Button</Button>
         <ButtonSecondary>Secondary Button</ButtonSecondary>
         <MyButton />
+        <MyButton sweden/>
       </Wrapper>
     </div>
   );
